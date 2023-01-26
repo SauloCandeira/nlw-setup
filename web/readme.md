@@ -3,6 +3,7 @@
 2º - npm install -D tailwindcss postcss autoprefixer
 3º - npm i phosphor-react
 4º - npm i dayjs
+4º - npm install @radix-ui/react-dialog
 5º - npm i faker
 
 
